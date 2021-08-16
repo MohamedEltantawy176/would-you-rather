@@ -43,5 +43,5 @@ jobs:
         id: node_release
         env:
           token: ${{ secrets.GITHUB_TOKEN }}
-          repository: "bands-book/bands-book-frontend/staging/mohamed"
+          repository: "would-you-rather/main"
           type: "stable"
